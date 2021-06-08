@@ -6,6 +6,10 @@ Utilizando o que vimos em aula, faça o possível para implementar a seguinte te
 ## DON'T PANIC!
 A base da tela já está pronta, a única coisa que você irá fazer é o corpo da página (que barbada heim?!)
 
+🚧 Não apague o conteúdo da pasta `prints`.
+
+🚧 Você deve salvar o arquivo html como index.html para que a pipeline de correção funcione corretamente.
+
 ### Observações
  - Testem o código usando apenas o Google Chrome.
  - Não precisa tentar entender o que foi feito na base (mas se quiser, go ahead)
@@ -55,9 +59,9 @@ Some cool stuff
         </header>
         <article>
           <h2 class="chapter-title">MÓDULO HTML/CSS</h2>
-          
+
           <!-- AQUI É CONTIGO -->
-         
+
         </article>
         <footer>
           <ol id="page-numbers">
